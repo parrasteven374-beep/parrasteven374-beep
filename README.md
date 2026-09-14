@@ -20,7 +20,5 @@
 ### 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parrasteven374-beep&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parrasteven374-beep&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-profile-trophy.vercel.app/?username=parrasteven374-beep&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trofeos de GitHub" />
 </p>
