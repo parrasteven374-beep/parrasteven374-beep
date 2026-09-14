@@ -4,10 +4,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+%26+Mobile+Dev;C%23+%2F+.NET+%2F+Python;Backend+%26+Relational+Databases" alt="Typing SVG" /></a>
 </p>
 
-<!-- Título de Tecnologías -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%">
+</p>
+
 <h3 align="center">Tecnologías aprendidas</h3>
 
-<!-- Stack Tecnológico -->
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
@@ -38,7 +40,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo" />
 </div>
 
-<!-- Proyectos Destacados -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%">
+</p>
+
 <div align="center">
 
 ### Proyectos destacados
@@ -52,29 +57,38 @@
 
 </div>
 
-<!-- Sección Side-by-Side: Spotify y Bomberman -->
-<div align="center">
-  <table border="0">
-    <tr>
-      <!-- Widget de Spotify -->
-      <td valign="top" data-importer="music">
-        <a href="https://open.spotify.com/user/313tjrgc5bvffokxnd35nsv4v54m">
-          <img src="https://spotify-recently-played-readme.vercel.app/api?user=313tjrgc5bvffokxnd35nsv4v54m&count=5&unique=false" alt="Spotify recently played" />
-        </a>
-      </td>
-      <!-- Gráfico de Bomberman -->
-      <td valign="top">
-        <picture data-importer="pacman">
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parrasteven374-beep/parrasteven374-beep/pacman-output/bomberman-contribution-graph-dark.svg?v=1">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parrasteven374-beep/parrasteven374-beep/pacman-output/bomberman-contribution-graph.svg?v=1">
-          <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/parrasteven374-beep/parrasteven374-beep/pacman-output/bomberman-contribution-graph.svg?v=1">
-        </picture>
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%">
+</p>
+
+<h3 align="center">Historial de Contribuciones</h3>
+
+<p align="center">
+  <picture data-importer="pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parrasteven374-beep/parrasteven374-beep/pacman-output/bomberman-contribution-graph-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parrasteven374-beep/parrasteven374-beep/pacman-output/bomberman-contribution-graph.svg?v=1">
+    <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/parrasteven374-beep/parrasteven374-beep/pacman-output/bomberman-contribution-graph.svg?v=1">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%">
+</p>
+
+<h3 align="center">Música que escucho</h3>
+
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/313tjrgc5bvffokxnd35nsv4v54m">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313tjrgc5bvffokxnd35nsv4v54m&count=5&unique=false" alt="Spotify recently played" />
+  </a>
 </div>
 
-<!-- Información Personal y Redes -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%">
+</p>
+
+<h3 align="center">Contacto</h3>
+
 <p align="center">
   <b>📍 Piedecuesta, Colombia</b> &nbsp;•&nbsp; 
   🎓 <b>UPB & SENA</b> &nbsp;•&nbsp; 
