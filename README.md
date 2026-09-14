@@ -65,9 +65,9 @@
       <!-- Gráfico de Bomberman -->
       <td valign="top">
         <picture data-importer="pacman">
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parrasteven374-beep/parrasteven374-beep/pacman-output/bomberman-contribution-graph-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parrasteven374-beep/parrasteven374-beep/pacman-output/bomberman-contribution-graph.svg">
-          <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/parrasteven374-beep/parrasteven374-beep/pacman-output/bomberman-contribution-graph.svg">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parrasteven374-beep/parrasteven374-beep/pacman-output/bomberman-contribution-graph-dark.svg?v=1">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parrasteven374-beep/parrasteven374-beep/pacman-output/bomberman-contribution-graph.svg?v=1">
+          <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/parrasteven374-beep/parrasteven374-beep/pacman-output/bomberman-contribution-graph.svg?v=1">
         </picture>
       </td>
     </tr>
