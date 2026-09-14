@@ -1,28 +1,43 @@
-# ¡Hola! Soy Michael Steven 👋
+# ¡Hola, soy Michael Steven  👋
+### Desarrollador de Software & Aplicaciones Móviles 📱💻
 
-Estudiante de Desarrollo de Software enfocado en la construcción de aplicaciones con C#, .NET y Python.
+Estudiante de programación orientado al desarrollo web, Programación Orientada a Objetos (POO), gestión de bases de datos relacionales y creación de aplicaciones móviles. Me destaco por la resolución lógica de problemas, la investigación técnica continua y mi enfoque en construir soluciones digitales eficientes y escalables.
 
 ---
 
 ### 🚀 Sobre mí
-- 🎓 Estudiando desarrollo de software.
-- 💻 Desarrollando proyectos en **C# (.NET)**, **Python** y **Bases de Datos (SQL)**.
-- 🧠 Profundizando en Programación Orientada a Objetos (POO) y arquitectura de software.
+- 🎓 Estudiando **Programación de Software** en la Universidad Pontificia Bolivariana (UPB).
+- 📱 Desarrollando proyectos con arquitectura híbrida y nativa en el **SENA**.
+- 💡 Apasionado por las buenas prácticas, la arquitectura de software y el aprendizaje autónomo.
+- 📍 Desde Piedecuesta, Colombia para el mundo.
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
+
+**Lenguajes y Desarrollo Móvil:**
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Apache Cordova](https://img.shields.io/badge/Apache%20Cordova-4D4D4D?style=for-the-badge&logo=apachecordova&logoColor=white)
+
+**Bases de Datos:**
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+**Entornos y Control de Versiones:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📊 Mis Estadísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=parrasteven374-beep&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parrasteven374-beep&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="45%" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parrasteven374-beep&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Gráfica de actividad" width="80%"/>
 </p>
+
+---
+
+### 📫 Contáctame
+- ✉️ [parrasteven374@gmail.com](mailto:parrasteven374@gmail.com)
