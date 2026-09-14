@@ -4,11 +4,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+%26+Mobile+Dev;C%23+%2F+.NET+%2F+Python;Backend+%26+Relational+Databases" alt="Typing SVG" /></a>
 </p>
 
-<!-- Separador Estilizado -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%">
-</p>
-
 <!-- Título de Tecnologías -->
 <h3 align="center">Tecnologías aprendidas</h3>
 
@@ -43,11 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo" />
 </div>
 
-<!-- Separador Estilizado -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%">
-</p>
-
 <!-- Proyectos Destacados -->
 <div align="center">
 
@@ -62,11 +52,6 @@
 
 </div>
 
-<!-- Separador Estilizado -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%">
-</p>
-
 <!-- Sección Side-by-Side: Spotify y Bomberman -->
 <div align="center">
   <table border="0">
@@ -80,19 +65,14 @@
       <!-- Gráfico de Bomberman -->
       <td valign="top">
         <picture data-importer="pacman">
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parrasteven374-beep/parrasteven374-beep/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parrasteven374-beep/parrasteven374-beep/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-          <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/parrasteven374-beep/parrasteven374-beep/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parrasteven374-beep/parrasteven374-beep/pacman-output/bomberman-contribution-graph-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parrasteven374-beep/parrasteven374-beep/pacman-output/bomberman-contribution-graph.svg">
+          <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/parrasteven374-beep/parrasteven374-beep/pacman-output/bomberman-contribution-graph.svg">
         </picture>
       </td>
     </tr>
   </table>
 </div>
-
-<!-- Separador Estilizado -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%">
-</p>
 
 <!-- Información Personal y Redes -->
 <p align="center">
