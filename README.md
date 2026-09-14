@@ -33,8 +33,15 @@ Estudiante de programación orientado al desarrollo web, Programación Orientada
 
 ---
 
+### 📊 Estadísticas y Actividad
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parrasteven374-beep&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Gráfica de actividad" width="80%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parrasteven374-beep&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parrasteven374-beep&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parrasteven374-beep&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" height="165" />
 </p>
 
 ---
