@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Michael Steven 👋</h1>
+<h1 align="center">Hi there, I'm Michael Steven 👋</h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+%26+Mobile+Developer;C%23+%2F+.NET+%2F+Python;Backend+%26+Relational+Databases" alt="Typing SVG" /></a>
 </p>
@@ -22,6 +22,16 @@
 | **[POO-Gestion-Hotel](https://github.com/parrasteven374-beep/POO-Gestion-Hotel)** | Sistema de reservas, consumos y facturación | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square) |
 | **[PY-Cafeteria](https://github.com/parrasteven374-beep/PY-Cafeteria)** | Punto de venta (POS) y control de stock | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square) |
 | **[POO-Dispositivos](https://github.com/parrasteven374-beep/POO-Dispositivos-Electronicos)** | Modelado de clases y herencia en consola | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square) |
+
+---
+
+### 📊 Métricas de Actividad
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parrasteven374-beep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parrasteven374-beep&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+</p>
 
 ---
 
