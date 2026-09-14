@@ -1,16 +1,14 @@
-name: Generate Bomberman Graph
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # Se ejecuta automáticamente todos los días a medianoche
-  workflow_dispatch: # Permite ejecutarlo manualmente
-
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write # Necesario para guardar las imágenes generadas
     steps:
+      # Paso 1: Inicializar el repositorio
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Paso 2: Generar los SVGs
       - name: Generate the SVGs
         uses: Platane/snk@v3
         with:
@@ -19,6 +17,7 @@ jobs:
             - dist/bomberman-contribution-graph.svg
             - dist/bomberman-contribution-graph-dark.svg?theme=bomberman
 
+      # Paso 3: Empujar los SVGs a la rama de salida
       - name: Push the SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
