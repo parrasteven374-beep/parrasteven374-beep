@@ -18,7 +18,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parrasteven374-beep&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parrasteven374-beep&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=parrasteven374-beep&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parrasteven374-beep&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
