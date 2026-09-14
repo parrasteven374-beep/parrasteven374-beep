@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! Soy Michael Parra</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+%26+Mobile+Developer;C%23+%2F+.NET+%2F+Python;Backend+%26+Relational+Databases" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+%26+Mobile+Dev;C%23+%2F+.NET+%2F+Python;Backend+%26+Relational+Databases" alt="Typing SVG" /></a>
 </p>
 
 ---
