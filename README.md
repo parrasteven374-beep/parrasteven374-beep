@@ -29,6 +29,6 @@
 <p align="center">
   <b>📍 Piedecuesta, Colombia</b> &nbsp;•&nbsp; 
   🎓 <b>UPB & SENA</b> &nbsp;•&nbsp; 
-  <img src="https://img.shields.io/badge/Rey_de_Copas-37_⭐-006633?style=flat&logo=awesomewm&logoColor=white" alt="Nacional 37"> &nbsp;•&nbsp; 
+  <img src="https://img.shields.io/badge/37_⭐-006633?style=flat&logo=awesomewm&logoColor=white" alt="Nacional 37"> &nbsp;•&nbsp; 
   ✉️ <b><a href="mailto:parrasteven374@gmail.com">Contáctame</a></b>
 </p>
