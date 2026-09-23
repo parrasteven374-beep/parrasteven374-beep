@@ -73,17 +73,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%">
 </p>
 
-<h3 align="center">Música que escucho</h3>
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/313tjrgc5bvffokxnd35nsv4v54m">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313tjrgc5bvffokxnd35nsv4v54m&count=5&unique=false" alt="Spotify recently played" />
-  </a>
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%">
-</p>
 
 <h3 align="center">Contacto</h3>
 
